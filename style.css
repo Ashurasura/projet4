@@ -722,6 +722,12 @@ p {
     margin: auto auto auto auto;
 }
 
+.fa 
+{
+    height: 48px;
+    width: 48px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
